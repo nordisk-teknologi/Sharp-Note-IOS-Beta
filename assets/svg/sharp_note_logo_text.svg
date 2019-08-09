@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="261.103" height="117.767" viewBox="0 0 261.103 117.767">
+  <g id="Group_660" data-name="Group 660" transform="translate(-57 -529.31)">
+    <g id="note" transform="translate(-488.919 262.78)">
+      <text id="sharpno_" data-name="sharpno " transform="translate(769.919 332.029)" fill="#fff" font-size="60" font-family="Asap-Bold, Asap" font-weight="700" letter-spacing="-0.015em"><tspan x="-223.38" y="0">sharp</tspan><tspan y="0" fill="#57ccf2">no </tspan></text>
+    </g>
+    <g id="note-2" data-name="note" transform="translate(-258.785 331.78)">
+      <text id="t" transform="translate(546.888 263.029)" fill="#57ccf2" stroke="#1d1a30" stroke-miterlimit="10" stroke-width="0.5" font-size="70" font-family="Asap-Bold, Asap" font-weight="700" letter-spacing="-0.015em"><tspan x="-23.94" y="0">t</tspan></text>
+    </g>
+    <g id="note-3" data-name="note" transform="translate(-228.785 319.78)">
+      <text id="e" transform="translate(514.888 218.947)" fill="#57ccf2" font-size="60" font-family="Asap-Bold, Asap" font-weight="700" letter-spacing="-0.015em"><tspan x="-0.34" y="56">e</tspan></text>
+    </g>
+  </g>
+</svg>

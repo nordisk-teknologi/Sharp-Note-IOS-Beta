@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="227.523" height="226.693" viewBox="0 0 227.523 226.693">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4ca7f6"/>
+      <stop offset="1" stop-color="#0f58ee"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_661" data-name="Group 661" transform="translate(-73.738 -292.654)">
+    <rect id="Rectangle_476" data-name="Rectangle 476" width="199" height="198" rx="15" transform="translate(104.712 292.654) rotate(9)" fill="#53c3e7"/>
+    <path id="Path_1752" data-name="Path 1752" d="M15,0H184a15,15,0,0,1,15,15V153.637c-24.043,20.47-27,22.992-51.529,44.363H15A15,15,0,0,1,0,183V15A15,15,0,0,1,15,0Z" transform="translate(88 307)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_477" data-name="Rectangle 477" width="14.867" height="117.974" rx="7.433" transform="translate(183.475 464.832) rotate(180)" fill="#fff"/>
+    <rect id="Rectangle_478" data-name="Rectangle 478" width="14.867" height="71.935" rx="7.433" transform="translate(161.415 441.812) rotate(180)" fill="#fff"/>
+    <rect id="Rectangle_479" data-name="Rectangle 479" width="14.867" height="52.273" rx="7.433" transform="translate(139.355 432.221) rotate(180)" fill="#fff"/>
+    <rect id="Rectangle_480" data-name="Rectangle 480" width="14.867" height="76.731" rx="7.433" transform="translate(227.596 444.21) rotate(180)" fill="#fff"/>
+    <rect id="Rectangle_481" data-name="Rectangle 481" width="14.867" height="41.243" rx="7.433" transform="translate(205.289 426.466) rotate(180)" fill="#fff"/>
+    <rect id="Rectangle_482" data-name="Rectangle 482" width="14.867" height="41.243" rx="7.433" transform="translate(249.655 426.466) rotate(180)" fill="#fff"/>
+    <path id="Path_1751" data-name="Path 1751" d="M7.832-.1H51.479L-.055,44.257,0,8.118C0,3.466,3.18-.1,7.832-.1Z" transform="translate(235.563 460.731)" fill="#fff"/>
+  </g>
+</svg>
